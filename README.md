@@ -9,6 +9,9 @@ Version:1.1.0 Date:2016.11.29
 
 Version:1.0.0 Date:2016.11.28
 建档
+
 ---
 
-![使用手册](https://github.com/CoocaaVR/CCVRMediaSDK/blob/master/SDK/Coocaa%20VRMedia%20SDK%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)
+如何使用
+
+详见[使用手册](https://github.com/CoocaaVR/CCVRMediaSDK/blob/master/SDK/Coocaa%20VRMedia%20SDK%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf)。
