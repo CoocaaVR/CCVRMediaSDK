@@ -1,13 +1,14 @@
 # CCVRMediaSDK
 更新日志
 ---
-Version:1.1.1 Date:2016.12.02
+###### Version:1.1.1 Date:2016.12.02
+
 修改使用手册内容
 
-Version:1.1.0 Date:2016.11.29
+###### Version:1.1.0 Date:2016.11.29
 新增播放模式切换
 
-Version:1.0.0 Date:2016.11.28
+###### Version:1.0.0 Date:2016.11.28
 建档
 
 ---
